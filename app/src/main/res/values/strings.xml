@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SpinnerMock</string>
+    <string name="search">Search...</string>
+    <string name="select_course">Select Course</string>
+    <string name="delete">-</string>
+    <string name="enter_course_code">course_code</string>
+</resources>
